@@ -1,0 +1,84 @@
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\obj\Debug\Alpha.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\obj\Debug\Alpha.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\obj\Debug\Alpha.PhoneBook.resources
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\obj\Debug\Alpha.Properties.Resources.resources
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\obj\Debug\Alpha.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\obj\Debug\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\bin\Debug\Alpha.exe.config
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\bin\Debug\Alpha.exe
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\bin\Debug\Alpha.pdb
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\obj\Debug\Alpha.csproj.CopyComplete
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\obj\Debug\Alpha.exe
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\obj\Debug\Alpha.pdb
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\Alpha\Alpha\bin\Debug\MetroSet UI.dll
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\bin\Debug\Alpha.exe.config
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\bin\Debug\Alpha.exe
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\bin\Debug\Alpha.pdb
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\bin\Debug\MetroSet UI.dll
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\obj\Debug\Alpha.csproj.AssemblyReference.cache
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\obj\Debug\Alpha.csproj.SuggestedBindingRedirects.cache
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\obj\Debug\Alpha.PhoneBook.resources
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\obj\Debug\Alpha.Properties.Resources.resources
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\obj\Debug\Alpha.csproj.GenerateResource.cache
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\obj\Debug\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\obj\Debug\Alpha.csproj.CopyComplete
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\obj\Debug\Alpha.exe
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\Alpha\obj\Debug\Alpha.pdb
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\bin\Debug\Alpha.exe.config
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\bin\Debug\Alpha.exe
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\bin\Debug\Alpha.pdb
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\bin\Debug\MetroSet UI.dll
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\obj\Debug\Alpha.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\obj\Debug\Alpha.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\obj\Debug\Alpha.PhoneBook.resources
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\obj\Debug\Alpha.Properties.Resources.resources
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\obj\Debug\Alpha.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\obj\Debug\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\obj\Debug\Alpha.csproj.CopyComplete
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\obj\Debug\Alpha.exe
+C:\Users\ibrah\Desktop\TERM 4\OOP\Project\final\final\Alpha\Alpha\obj\Debug\Alpha.pdb
+C:\Users\ibrah\Desktop\Alpha\Alpha\bin\Debug\Alpha.exe.config
+C:\Users\ibrah\Desktop\Alpha\Alpha\bin\Debug\Alpha.exe
+C:\Users\ibrah\Desktop\Alpha\Alpha\bin\Debug\Alpha.pdb
+C:\Users\ibrah\Desktop\Alpha\Alpha\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ibrah\Desktop\Alpha\Alpha\bin\Debug\MetroSet UI.dll
+C:\Users\ibrah\Desktop\Alpha\Alpha\obj\Debug\Alpha.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Alpha\Alpha\obj\Debug\Alpha.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\Desktop\Alpha\Alpha\obj\Debug\Alpha.PhoneBook.resources
+C:\Users\ibrah\Desktop\Alpha\Alpha\obj\Debug\Alpha.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Alpha\Alpha\obj\Debug\Alpha.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Alpha\Alpha\obj\Debug\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Alpha\Alpha\obj\Debug\Alpha.csproj.CopyComplete
+C:\Users\ibrah\Desktop\Alpha\Alpha\obj\Debug\Alpha.exe
+C:\Users\ibrah\Desktop\Alpha\Alpha\obj\Debug\Alpha.pdb
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\bin\Debug\Alpha.exe.config
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\bin\Debug\Alpha.exe
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\bin\Debug\Alpha.pdb
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\bin\Debug\MetroSet UI.dll
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\obj\Debug\Alpha.csproj.AssemblyReference.cache
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\obj\Debug\Alpha.csproj.SuggestedBindingRedirects.cache
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\obj\Debug\Alpha.PhoneBook.resources
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\obj\Debug\Alpha.Properties.Resources.resources
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\obj\Debug\Alpha.csproj.GenerateResource.cache
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\obj\Debug\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\obj\Debug\Alpha.csproj.CopyComplete
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\obj\Debug\Alpha.exe
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook\obj\Debug\Alpha.pdb
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\bin\Debug\Alpha.exe.config
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\bin\Debug\Alpha.exe
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\bin\Debug\Alpha.pdb
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\bin\Debug\MetroSet UI.dll
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\obj\Debug\Alpha.csproj.AssemblyReference.cache
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\obj\Debug\Alpha.csproj.SuggestedBindingRedirects.cache
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\obj\Debug\Alpha.PhoneBook.resources
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\obj\Debug\Alpha.Properties.Resources.resources
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\obj\Debug\Alpha.csproj.GenerateResource.cache
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\obj\Debug\Alpha.csproj.CoreCompileInputs.cache
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\obj\Debug\Alpha.csproj.CopyComplete
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\obj\Debug\Alpha.exe
+C:\Users\total\Main Drive\AASTMT\Term 4\Object-Oriented Programming\Project\PhoneBook_System\obj\Debug\Alpha.pdb
