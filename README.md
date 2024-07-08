@@ -1,1 +1,3 @@
-Collabrators: Quartz-I GitHecko
+Collabrators:
+Quartz-I
+GitHecko
